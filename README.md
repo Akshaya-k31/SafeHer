@@ -21,7 +21,7 @@ Backend: Flask (Python)
 Data: Open datasets + user reports
 
 📊 Features
-Safe route suggestion
+Safe route suggestion and many more
 Report unsafe locations
 Safety heatmap
 Simple and user-friendly interface
