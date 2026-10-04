@@ -21,7 +21,7 @@ function authHeaders(): Record<string, string> {
 
 export interface RouteOption {
   route_id: string;
-  route_type: "safest" | "balanced" | "fastest";
+  route_type: "safest" | "Medium" | "fastest";
   label: string;
   color: string;
   polyline_coordinates: [number, number][];
